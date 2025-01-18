@@ -1,5 +1,5 @@
 # web-dinamis-node.js-apache
-## instalation in server 
+## configuration in server 
 - ```sudo apt update -y```
 - ```sudo apt install apache2 nodejs npm -y```
 - ```sudo systemctl start apache2```
